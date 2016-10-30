@@ -1,0 +1,1 @@
+{"version":3,"file":"persistentComponent.decorator.js","sourceRoot":"","sources":["../src/persistentComponent.decorator.ts"],"names":[],"mappings":";AACA,6BAAoC,UAAe;IAC/C,MAAM,CAAC,UAAU,MAAW;QACxB,IAAI,YAAY,GAAG,MAAM,CAAC,cAAc,CAAC,MAAM,CAAC,SAAS,CAAC,CAAC,WAAW,CAAC;QACvE,MAAM,CAAC,MAAM,CAAC;IAClB,CAAC,CAAC;AACN,CAAC;AALe,2BAAmB,sBAKlC,CAAA;AAAA,CAAC"}

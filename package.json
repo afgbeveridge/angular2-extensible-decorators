@@ -1,0 +1,35 @@
+{
+  "name": "angular2-extensible-decorators",
+  "version": "1.0.1",
+  "description": "Support extensible decoration for properties",
+  "main": "components",
+  "scripts": {
+    "watch": "tsc -p src -w",
+    "build": "rd /s /q lib && tsc -p src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afgbeveridge/Angular-2-PropertyDecorators-seed.git"
+  },
+  "keywords": [
+    "Angular",
+    "2",
+    "Extensible",
+    "Property",
+    "Decorators",
+    "Local storage",
+    "Session storage"
+  ],
+  "author": "tony.beveridge@outlook.co.nz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afgbeveridge/Angular-2-PropertyDecorators/issues"
+  },
+  "homepage": "https://github.com/afgbeveridge/Angular-2-PropertyDecorators#readme",
+  "devDependencies": {
+    "typescript": "^2.0.3"
+  },
+  "dependencies": {
+    "@angular/core": "^2.0.0"
+  }
+}
