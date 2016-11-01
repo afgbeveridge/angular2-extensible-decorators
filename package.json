@@ -1,6 +1,6 @@
 {
   "name": "angular2-extensible-decorators",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Support extensible decoration for properties",
   "main": "components",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/afgbeveridge/Angular-2-PropertyDecorators-seed.git"
+    "url": "git+https://github.com/afgbeveridge/angular2-extensible-decorators"
   },
   "keywords": [
     "Angular",
@@ -23,9 +23,9 @@
   "author": "tony.beveridge@outlook.co.nz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/afgbeveridge/Angular-2-PropertyDecorators/issues"
+    "url": "https://github.com/afgbeveridge/angular2-extensible-decorators/issues"
   },
-  "homepage": "https://github.com/afgbeveridge/Angular-2-PropertyDecorators#readme",
+  "homepage": "https://github.com/afgbeveridge/angular2-extensible-decorators#readme",
   "devDependencies": {
     "typescript": "^2.0.3"
   },
